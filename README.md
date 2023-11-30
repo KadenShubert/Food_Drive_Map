@@ -4,15 +4,14 @@
      height="auto"/>
 </p>
 
-### Streamlit app deployment demo
+### Edmonton Food Drive Mapping information
 
-This project is a demonstration of the Streamlit app deployment service using the Iris dataset.
+This project is an embedded interactive map of the Location data in the Edmonton Food Drive Project.
 
 ### Repository Structure
 
 The repository contains the following files:
 
-app.py: Contains a small app performing ML on the Iris dataset and allowing user input
-Requirements.txt: file contains the required packages for this app to run properly
+Ward_map.py: Contains a map of Food Drive areas
 
-### Try the app [here](https://app-apps-2zd2w2bpl68ocys4jqoxbj.streamlit.app/)
+### Try the app [here]()
